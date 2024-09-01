@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://api.heron.insd.dev/:path*"
+      "destination": "https://api.heron.insd.dev/api/:path*"
     }
   ]
 }
